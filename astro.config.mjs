@@ -5,7 +5,7 @@ export default defineConfig({
 
 site: 'https://sasakichan.com',
 
-base: '/src/pages'
+base: '/homepage1'
 
 })
 
